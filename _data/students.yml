@@ -1,0 +1,28 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+- name: Jinhong Lu
+  photo: jinhong.jpg
+  info: PhD student, Sep 2021 -
+  email: lujinhong@westlake.edu.cn
+  number_educ: 1
+  education1: B.S. in Biological Sciences, South China Agricultural University
+- name: Weixiang Wang
+  photo: weixiang.png
+  info: PhD student, Oct 2021 -
+  email: wangweixiang@westlake.edu.cn
+  number_educ: 2
+  education1: B.S. in Biology, Northwest A&F University
+  education2: M.S. in Physiology, Nanjing University
+- name: Qing Yang
+  photo: yangqing.jpg
+  info: PhD student, Feb. 2022 -
+  email: yangqing@westlake.edu.cn
+  number_educ: 1
+  education1: B.S. in Bioinformatics, Soochow University

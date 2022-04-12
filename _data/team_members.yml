@@ -1,0 +1,20 @@
+- name: Yanmei Dou
+  photo: yanmei.jpg
+  info: Assistant professor, Sep 2021-
+  email: douyanmei@westlake.edu.cn
+  number_educ: 2
+  education1: Ph.D. with Prof. Liping Wei, Peking University
+  education2: Postdoc with Prof. Peter J Park, Harvard Medical School
+- name: Yunchao Zheng 
+  photo: yunchao.jpg
+  info: Postdoc Fellow, Oct 2021-
+  email: zhengyunchao@westlake.edu.cn 
+  number_educ: 2
+  education1: B.S. in Agronomy, Zhejiang University
+  education2: Ph.D. in Biophysics, Zhejiang University (2014.8-2020.9); Visiting Student in Population Epigenetics and Epigenomics, Technical University of Munich (2018.3-2019.4)
+- name: Yonghe Xia
+  photo: xiayonghe.jpeg
+  info: Research Assistant, Apr 2022-
+  email: xiayonghe@westlake.edu.cn
+  number_educ: 1
+  education1: B.S. in Bioscience, Minnan Normal University
