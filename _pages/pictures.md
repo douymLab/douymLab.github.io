@@ -20,7 +20,7 @@ Jump to: [Westlake](#westlake-university), [School of Life Sciences](#school-of-
 
 ## Our Lab
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/groupout.jpeg" width="100" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/groupout.jpeg" width="100%" >
 </figure>
 
 
