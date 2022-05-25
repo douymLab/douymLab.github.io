@@ -18,6 +18,12 @@ Jump to: [Westlake](#westlake-university), [School of Life Sciences](#school-of-
 <img src="{{ site.url }}{{ site.baseurl }}/images/westlake_SOL.jpeg" width="100%" >
 </figure>
 
+## Our Lab
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/groupout.jpeg" width="100" >
+</figure>
+
+
 <!-- ## Our Lab -->
 
 <!-- <figure> -->
