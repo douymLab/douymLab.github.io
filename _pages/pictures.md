@@ -5,6 +5,8 @@ excerpt: "Dou Lab -- Pictures"
 permalink: /pictures/
 ---
 
+# Pictures
+Jump to: [Our Lab](#our-lab), [Westlake](#westlake-university), [School of Life Sciences](#school-of-life-sciences)
 
 ## Our Lab
 <figure>
@@ -16,8 +18,6 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/20220613-farewell_lulu.jpeg" width="100%" >
 </figure>
 
-# Pictures
-Jump to: [Westlake](#westlake-university), [School of Life Sciences](#school-of-life-sciences), [Our Lab](#our-lab) 
 
 ## Westlake University
 <figure>
