@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome to Dou Lab at Westlake
 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/lab_logo_v1.jpg){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/lab_logo_v2.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
 We are a [research group](https://sls.westlake.edu.cn/Our_Faculty/202104/t20210407_9156.shtml) in the [School of Life Sciences at Westlake University](https://www.westlake.edu.cn/academics/School_of_Life_Science/About/Overview/). Our lab is primarily a computational biology/bioinformatic group that develops and uses a wide range of genomic, bioinformatic, and statistical methods. Our aim is to explore and understand mosaic mutations in human genomes. Mosaicism happens because a mutation arises at some point after the zygote is created. Mosaic mutations arising early during development generally are present in relatively high proportion of cells, affecting high proportion of tissues and are likely to be transmitted to the next generation. Mosaic mutations are common in normal human genomes and have been reported to be implicated in a variety of disorders. <br /> 
