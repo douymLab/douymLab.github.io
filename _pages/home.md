@@ -56,7 +56,11 @@ We will devote our effects to draw a comprehensive view of mosaic variants in hu
 We are grateful for funding from Westlake University and NSFC.
 
 <! <figure class="fourth">
-<! <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_westlake.jpeg" style="width: 170px">
+<! <img src="{{ site.url }}{{ site.baseurl }}/images/西湖教育基金会logo.jpeg" style="width: 170px">
+<! <!-- </figure> -->
+
+<! <figure class="fourth">
+<! <img src="{{ site.url }}{{ site.baseurl }}/images/National_Natural_Science_Foundation_of_China_logo.png" style="width: 170px">
 <! <!-- </figure> -->
 
 ## Collaborators:
