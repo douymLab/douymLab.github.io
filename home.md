@@ -53,10 +53,14 @@ We are a [research group](https://sls.westlake.edu.cn/Our_Faculty/202104/t202104
 
 
 ## Funding:
-We are grateful for funding from Westlake University.
+We are grateful for funding from Westlake University and NSFC.
 
 <figure class="fourth">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_westlake.jpeg" style="width: 170px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/西湖教育基金会logo.jpeg" style="width: 140px">
+<!-- </figure> -->
+
+<figure class="fourth">
+<img src="{{ site.url }}{{ site.baseurl }}/images/National_Natural_Science_Foundation_of_China_logo.png" style="width: 140px">
 <!-- </figure> -->
 
 ## Collaborators:
