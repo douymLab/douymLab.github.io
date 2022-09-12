@@ -8,12 +8,11 @@ permalink: /positions/
 
 # Open positions
 
-　**Our lab is primarily a computational biology/bioinformatic group that develops and uses a wide range of genomic, bioinformatic, and statistical methods, but when desired, we would also do wet-lab experiments. We would work closely with hospitals to carry out a series of studies on (but not limited to) mosaic mutations, our goal is to explore and understand the origin of somatic mutations as well as the role of mosaic mutations in varied human diseases. We are always looking for new group members with passion, talent, and grit!**
+　**Our lab is primarily a computational biology/bioinformatic group that develops and uses a wide range of genomic, bioinformatic, and statistical methods to explore biological questions. We would work closely with hospitals to carry out a series of studies on (but not limited to) mosaic mutations, our goal is to explore and understand the origin of somatic mutations as well as the role of mosaic mutations in varied human diseases. We are always looking for new group members with passion, talent, and grit!**
 
 ### Postdoc positions:
-　An ideal candidate will have (or about to have) a PhD in computational biology/bioinformatics/computer science/statistics or another quantitative field, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable. Candidates with a Ph. D. degree in biology with substantial experience and interest in quantitative fields/programming are also welcomed to apply.
-
-　We are particularly interested in hiring at least one fellow with a rigorous statistics/computational background. Those with an outstanding record in a quantitative field without significant exposure to biology may also be considered.
+　An ideal candidate in bioinformatics/biostatistics will have (or about to have) a PhD in computational biology/genomics/bioinformatics/computer science/statistics or another quantitative field, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable. We are particularly interested in hiring at least one fellow with a rigorous statistics/computational background. Those with an outstanding record in a quantitative field without significant exposure to biology may also be considered.
+  Candidates with a Ph. D. degree in biology with substantial wet-lab experience are also very welcomed to apply.
 
 　We aim at building a team of supportive and productive computational biologists and other members. Successful candidates will have the chance to work on the grand challenges of human genomics, somatic mutations, human development and precision medicine. Applicants for other relevant projects and programs will be encouraged and supported. 
 
