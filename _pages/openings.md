@@ -15,7 +15,7 @@ permalink: /positions/
 
   We have also established a wet-lab and desire to bridge dry-wet lab gap. Candidates with a Ph. D. degree in biology with substantial wet-lab experience are very welcomed to apply.
 
-　We aim at building a team of supportive and productive computational biologists and other members. Successful candidates will have the chance to work on the grand challenges of human genomics, somatic mutations, human development and precision medicine. Applicants for other relevant projects and programs will be encouraged and supported. 
+　We aim at building a supportive and productive team. Successful candidates will have the chance to work on the grand challenges of human genomics, somatic mutations, human development and precision medicine. Applicants for other relevant projects and programs will be encouraged and supported. 
 
 　If you are interested in joining us, please send me an [email](mailto:douyanmei@westlake.edu.cn) along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate "Application Postdoc (Your name)" in the email subject. You can find the current job posting here with detailed compensation and benefits:
 [Opening for Postdocs]({{ site.baseurl }}/downloads/Job Advertisement for Postdocs.pdf) or [博后招聘启事]({{ site.baseurl }}/downloads/西湖大学生命科学学院窦岩梅课题组博士后招聘启事.pdf). 
