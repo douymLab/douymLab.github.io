@@ -13,7 +13,7 @@ permalink: /positions/
 ### Postdoc positions:
 　An ideal candidate in bioinformatics/biostatistics will have (or about to have) a PhD in computational biology/genomics/bioinformatics/computer science/statistics or another quantitative field, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable. We are particularly interested in hiring at least one fellow with a rigorous statistics/computational background. Those with an outstanding record in a quantitative field without significant exposure to biology may also be considered.
 
-  We have also established a wet-lab and desire to bridge dry-wet lab gap. Candidates with a Ph. D. degree in biology with substantial wet-lab experience are very welcomed to apply.
+　We have also established a wet-lab and desire to bridge dry-wet lab gap. Candidates with a Ph. D. degree in biology with substantial wet-lab experience are very welcomed to apply.
 
 　We aim at building a supportive and productive team. Successful candidates will have the chance to work on the grand challenges of human genomics, somatic mutations, human development and precision medicine. Applicants for other relevant projects and programs will be encouraged and supported. 
 
