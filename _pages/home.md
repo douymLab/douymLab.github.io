@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Dou Lab at Westlake
+# Welcome to Dou Lab
 
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/lab_logo_v1.jpg){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
