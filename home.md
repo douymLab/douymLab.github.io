@@ -1,12 +1,12 @@
 ---
 title: "Dou Lab - Home"
 layout: homelay
-excerpt: "Dou Lab at Westlake University."
+excerpt: "Dou Lab."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Dou Lab at Westlake
+# Welcome to Dou Lab
 
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/lab_logo_v2.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
