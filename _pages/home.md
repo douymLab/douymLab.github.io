@@ -1,7 +1,7 @@
 ---
 title: "Dou Lab - Home"
 layout: homelay
-excerpt: "Dou Lab at Westlake University."
+excerpt: "Dou Lab."
 sitemap: false
 permalink: /
 ---
