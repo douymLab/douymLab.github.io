@@ -134,14 +134,14 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
 
 
-## Lab visitors, BSc students
+## Lab visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visiting Students</h4>
+<h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
- <h4>{{ member.name }}</h4>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -176,15 +176,19 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
   {% endif %}
 
   </ul>
+</div>
 {% endfor %}
+<div class="col-sm-4 clearfix">
+<h4>Master students</h4>
+{% for member in site.data.alumni_msc %}
+{{ member.name }}
+{% endfor %}
+</div>
 
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
- {{ member.name }}
- <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
- <ul style="overflow: hidden">
+{{ member.name }}
 {% endfor %}
 </div>
 
