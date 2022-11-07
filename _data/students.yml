@@ -9,13 +9,13 @@
 #  education4:
 - name: Jinhong Lu
   photo: jinhong.jpg
-  info: PhD student, Sep 2021 -
+  info: PhD student, Sept. 2021 -
   email: lujinhong@westlake.edu.cn
   number_educ: 1
   education1: B.S. in Biological Sciences, South China Agricultural University
 - name: Weixiang Wang
   photo: weixiang.png
-  info: PhD student, Oct 2021 -
+  info: PhD student, Oct. 2021 -
   email: wangweixiang@westlake.edu.cn
   number_educ: 2
   education1: B.S. in Biology, Northwest A&F University
@@ -26,3 +26,14 @@
   email: yangqing@westlake.edu.cn
   number_educ: 1
   education1: B.S. in Bioinformatics, Soochow University
+# - name: Chunyi Wang
+- name: Mengdie Yao
+  photo: mengdie.png
+  info: PhD student, Nov. 2022 -
+  email: yaomengdie@westlake.edu.cn
+  number_educ: 3
+  education1: B.S. in Mathematics with Applied Mathematics (2+2), The University of Nottingham, Ningbo, China & The University of Nottingham, United Kingdom.
+  education2: M.S. in Statistics (Data Science), Imperial College London
+  education3: M.S. in Computational and Applied Mathematics, The University of Chicago
+# - name: Zhirui Yang
+
