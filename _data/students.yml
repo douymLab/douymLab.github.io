@@ -26,14 +26,25 @@
   email: yangqing@westlake.edu.cn
   number_educ: 1
   education1: B.S. in Bioinformatics, Soochow University
+- name: Wenxuan Fan
+  photo: fanwenxuan.jpeg
+  info: Visitor, Jan. 2022 -
+  email: fanwenxuan@westlake.edu.cn
+  number_educ: 1
+  education1: B.Eng. candidate in Pharmaceutical Engineering, East China Univ. S&T
 # - name: Chunyi Wang
 - name: Mengdie Yao
   photo: mengdie.jpg
   info: PhD student, Nov. 2022 -
   email: yaomengdie@westlake.edu.cn
   number_educ: 3
-  education1: B.S. in Mathematics with Applied Mathematics (2+2), The University of Nottingham, Ningbo, China & The University of Nottingham, United Kingdom.
+  education1: B.S. in Mathematics with Applied Mathematics (2+2), The University of Nottingham, Ningbo, China & The University of Nottingham, United Kingdom
   education2: M.S. in Statistics (Data Science), Imperial College London
   education3: M.S. in Computational and Applied Mathematics, The University of Chicago
-# - name: Zhirui Yang
-
+- name: Zhirui Yang
+  photo: zhirui.jpg
+  info: PhD student, Nov. 2022 -
+  email: yangzhirui@westlake.edu.cn
+  number_educ: 2
+  education1: B.S. in Biotechnology, Northwest A&F University
+  education2: M.S. in Animal Genetics, Breeding and Reproduction, Northwest A&F University
