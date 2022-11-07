@@ -32,7 +32,12 @@
   email: fanwenxuan@westlake.edu.cn
   number_educ: 1
   education1: B.Eng. candidate in Pharmaceutical Engineering, East China Univ. S&T
-# - name: Chunyi Wang
+- name: Chunyi Wang
+  photo: wangchunyi.png
+  info: PhD student, Nov. 2022 -
+  email: yaomengdie@westlake.edu.cn
+  number_educ: 1
+  education1: B.S. in Pratacultural Science, Lanzhou University
 - name: Mengdie Yao
   photo: mengdie.jpg
   info: PhD student, Nov. 2022 -
