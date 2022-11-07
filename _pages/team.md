@@ -176,8 +176,8 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
   {% endif %}
 
   </ul>
-</div>
 {% endfor %}
+
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
