@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-0.9.629">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Dou Lab - Team</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="team_files/libs/clipboard/clipboard.min.js"></script>
+<script src="team_files/libs/quarto-html/quarto.js"></script>
+<script src="team_files/libs/quarto-html/popper.min.js"></script>
+<script src="team_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="team_files/libs/quarto-html/anchor.min.js"></script>
+<link href="team_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="team_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="team_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="team_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="team_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Dou Lab - Team</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="group-members" class="level1">
+<h1>Group Members</h1>
+<p><strong>We are looking for new PhD students, Postdocs, and Research Assistants to join the team</strong> <a href="%7B%7B%20site.url%20%7D%7D%7B%7B%20site.baseurl%20%7D%7D/positions">(see openings)</a> <strong>!</strong></p>
+<p>Jump to <a href="#staff">staff</a>, <a href="#phd-students">PhD students</a>, <a href="#administrative-support">administrative support</a>, <a href="#lab-visitors,-bsc/-msc-students">lab visitors</a>, <a href="#alumni">alumni</a>.</p>
+<section id="staff" class="level2">
+<h2 class="anchored" data-anchor-id="staff">Staff</h2>
+<p>{% assign number_printed = 0 %} {% for member in site.data.team_members %}</p>
+<p>{% assign even_odd = number_printed | modulo: 2 %}</p>
+{% if even_odd == 0 %}
+<div class="row">
+<p>{% endif %}</p>
+<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
+<h4 class="anchored">
+{{ member.name }}
+</h4>
+<i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+<ul style="overflow: hidden">
+{% if member.number_educ == 1 %}
+<li>
+{{ member.education1 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 2 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 3 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 4 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<li>
+{{ member.education4 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 5 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<li>
+{{ member.education4 }}
+</li>
+<li>
+{{ member.education5 }}
+</li>
+<p>{% endif %}</p>
+</ul>
+</i></div><i>
+<p>{% assign number_printed = number_printed | plus: 1 %}</p>
+<p>{% if even_odd == 1 %}</p>
+</i></div><i>
+<p>{% endif %}</p>
+<p>{% endfor %}</p>
+{% assign even_odd = number_printed | modulo: 2 %} {% if even_odd == 1 %}
+</i></section></section></main></div><i>
+<p>{% endif %}</p>
+
+<section id="phd-students" class="level2">
+<h2 data-anchor-id="phd-students">PhD Students</h2>
+<p>{% assign number_printed = 0 %} {% for member in site.data.students %}</p>
+<p>{% assign even_odd = number_printed | modulo: 2 %}</p>
+{% if even_odd == 0 %}
+<div class="row">
+<p>{% endif %}</p>
+<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
+<h4>
+{{ member.name }}
+</h4>
+<i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+<ul style="overflow: hidden">
+{% if member.number_educ == 1 %}
+<li>
+{{ member.education1 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 2 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 3 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 4 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<li>
+{{ member.education4 }}
+</li>
+<p>{% endif %}</p>
+</ul>
+</i></div><i>
+<p>{% assign number_printed = number_printed | plus: 1 %}</p>
+<p>{% if even_odd == 1 %}</p>
+</i></div><i>
+<p>{% endif %}</p>
+<p>{% endfor %}</p>
+{% assign even_odd = number_printed | modulo: 2 %} {% if even_odd == 1 %}
+
+<p>{% endif %}</p>
+</i></section><i>
+<section id="lab-visitors-bsc-msc-students" class="level2">
+<h2 data-anchor-id="lab-visitors-bsc-msc-students">Lab visitors, BSc/ MSc students</h2>
+<div class="row">
+<div class="col-sm-4 clearfix">
+<h4>
+Visiting Students
+</h4>
+{% for member in site.data.alumni_visitors %} <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
+<h4>
+{{ member.name }}
+</h4>
+<i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+<ul style="overflow: hidden">
+{% if member.number_educ == 1 %}
+<li>
+{{ member.education1 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 2 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 3 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 4 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<li>
+{{ member.education4 }}
+</li>
+<p>{% endif %}</p>
+{% if member.number_educ == 5 %}
+<li>
+{{ member.education1 }}
+</li>
+<li>
+{{ member.education2 }}
+</li>
+<li>
+{{ member.education3 }}
+</li>
+<li>
+{{ member.education4 }}
+</li>
+<li>
+{{ member.education5 }}
+</li>
+<p>{% endif %}</p>
+</ul>
+</i></div><i>
+{% endfor %}
+<div class="col-sm-4 clearfix">
+<h4>
+Bachelor Students
+</h4>
+<p>{% for member in site.data.alumni_bsc %} {{ member.name }} {% endfor %}</p>
+</div>
+</i></div><i>
+</i></section><i>
+<section id="administrative-support" class="level2">
+<h2 data-anchor-id="administrative-support">Administrative Support</h2>
+<p><a href="mailto:fengyanwen@westlake.edu.cn">Yanwen</a> is helping us (and other groups) with administration.</p>
+</section>
+<section id="alumni" class="level2">
+<h2 data-anchor-id="alumni">Alumni</h2>
+<p>{% assign number_printed = 0 %} {% for member in site.data.alumni_members %}</p>
+<p>{% assign even_odd = number_printed | modulo: 2 %}</p>
+{% if even_odd == 0 %}
+<div class="row">
+<p>{% endif %}</p>
+<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
+<h4>
+{{ member.name }}
+</h4>
+<i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+<ul style="overflow: hidden">
+</ul>
+</div>
+<p>{% assign number_printed = number_printed | plus: 1 %}</p>
+<p>{% if even_odd == 1 %}</p>
+</div>
+<p>{% endif %}</p>
+<p>{% endfor %}</p>
+{% assign even_odd = number_printed | modulo: 2 %} {% if even_odd == 1 %}
+
+<p>{% endif %}</p>
+</section>
+
+
+
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+ <!-- /content -->
+
+
+
+</i></i></i></body></html>

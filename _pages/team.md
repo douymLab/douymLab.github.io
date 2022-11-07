@@ -134,7 +134,7 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
 
 
-## Lab visitors
+## Lab visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -176,15 +176,15 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
   {% endif %}
 
   </ul>
-
-{% endfor %}
 </div>
-
+{% endfor %}
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
+</div>
+
 </div>
 
 
