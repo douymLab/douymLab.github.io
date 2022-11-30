@@ -31,3 +31,16 @@
   number_educ: 2
   education1: B.S. in Applied Psychology, Binzhou Medical University
   education2: M.S. in Biotechnology, Dalian Medical University
+- name: Xiaoyu Ma
+  photo: xiaoyu.jpg
+  info: Visitor, Oct. 2022 -
+  number_educ: 2
+  education1: M.S in Biochemistry and Molecular Biology,Qiqihar University
+  education2: B.S in Biology ,Qiqihar university
+- name: Meiyue Hu
+  photo: humeiyue.jpg
+  info: Research Assistant, Nov. 2022-
+  email: humeiyue@westlake.edu.cn
+  number_educ: 2
+  education1: B.S China Pharmaceutical University(Basic Pharmacy)
+  education2: M.S Shanghai Jiao Tong University(Molecular Biology)

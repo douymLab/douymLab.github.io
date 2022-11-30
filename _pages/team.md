@@ -138,7 +138,7 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
 <div class="row">
 
-<div class="col-sm-6 clearfix">
+<!-- <div class="col-sm-6 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -178,7 +178,7 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
   </ul>
 </div>
-{% endfor %}
+{% endfor %} -->
 
 <div class="col-sm-6 clearfix">
 <h4>Bachelor Students</h4>
