@@ -205,85 +205,53 @@ ul.task-list{list-style: none;}
 <h2 data-anchor-id="lab-visitors-bsc-msc-students">Lab visitors, BSc/ MSc students</h2>
 <div class="row">
 <div class="col-sm-4 clearfix">
-<h4>
-Visiting Students
-</h4>
-{% for member in site.data.alumni_visitors %} <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
-<h4>
-{{ member.name }}
-</h4>
-<i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+<h4>Visiting Students</h4>
+{% for member in site.data.alumni_visitors %}
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
+<h4>{{ member.name }}</h4>
+<i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}> -->
 <ul style="overflow: hidden">
 {% if member.number_educ == 1 %}
-<li>
-{{ member.education1 }}
-</li>
-<p>{% endif %}</p>
+<li>{{ member.education1 }}</li>
+{% endif %}
 {% if member.number_educ == 2 %}
-<li>
-{{ member.education1 }}
-</li>
-<li>
-{{ member.education2 }}
-</li>
-<p>{% endif %}</p>
+<li>{{ member.education1 }}</li>
+<li>{{ member.education2 }}</li>
+{% endif %}
 {% if member.number_educ == 3 %}
-<li>
-{{ member.education1 }}
-</li>
-<li>
-{{ member.education2 }}
-</li>
-<li>
-{{ member.education3 }}
-</li>
-<p>{% endif %}</p>
+<li>{{ member.education1 }}</li>
+<li>{{ member.education2 }}</li>
+<li>{{ member.education3 }}</li>
+{% endif %}
 {% if member.number_educ == 4 %}
-<li>
-{{ member.education1 }}
-</li>
-<li>
-{{ member.education2 }}
-</li>
-<li>
-{{ member.education3 }}
-</li>
-<li>
-{{ member.education4 }}
-</li>
-<p>{% endif %}</p>
+<li>{{ member.education1 }}</li>
+<li>{{ member.education2 }}</li>
+<li>{{ member.education3 }}</li>
+<li>{{ member.education4 }}</li>
+{% endif %}
 {% if member.number_educ == 5 %}
-<li>
-{{ member.education1 }}
-</li>
-<li>
-{{ member.education2 }}
-</li>
-<li>
-{{ member.education3 }}
-</li>
-<li>
-{{ member.education4 }}
-</li>
-<li>
-{{ member.education5 }}
-</li>
-<p>{% endif %}</p>
+<li>{{ member.education1 }}</li>
+<li>{{ member.education2 }}</li>
+<li>{{ member.education3 }}</li>
+<li>{{ member.education4 }}</li>
+<li>{{ member.education5 }}</li>
+{% endif %}
 </ul>
-</i></div><i>
 {% endfor %}
+</div>
+
 <div class="col-sm-4 clearfix">
-<h4>
-Bachelor Students
-</h4>
+<h4>Bachelor Students</h4>
 <p>{% for member in site.data.alumni_bsc %} {{ member.name }} {% endfor %}</p>
 </div>
-</i></div><i>
-</i></section><i>
+</div>
+</section>
+
 <section id="administrative-support" class="level2">
 <h2 data-anchor-id="administrative-support">Administrative Support</h2>
 <p><a href="mailto:fengyanwen@westlake.edu.cn">Yanwen</a> is helping us (and other groups) with administration.</p>
 </section>
+
 <section id="alumni" class="level2">
 <h2 data-anchor-id="alumni">Alumni</h2>
 <p>{% assign number_printed = 0 %} {% for member in site.data.alumni_members %}</p>
