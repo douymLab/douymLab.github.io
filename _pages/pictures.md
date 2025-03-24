@@ -10,7 +10,7 @@ Jump to: [Our Lab](#our-lab), [Westlake](#westlake-university), [School of Life 
 
 ## Group photo, 2025
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group2025.jpeg" width="100%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group2025.jpg" width="100%" >
 </figure>
 
 ## Our Lab
