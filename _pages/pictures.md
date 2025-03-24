@@ -8,6 +8,11 @@ permalink: /pictures/
 # Pictures
 Jump to: [Our Lab](#our-lab), [Westlake](#westlake-university), [School of Life Sciences](#school-of-life-sciences)
 
+## Group photo, 2025
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group2025.jpeg" width="100%" >
+</figure>
+
 ## Our Lab
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/groupout.jpeg" width="100%" >
@@ -17,7 +22,6 @@ Jump to: [Our Lab](#our-lab), [Westlake](#westlake-university), [School of Life 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/20220613-farewell_lulu.jpeg" width="100%" >
 </figure>
-
 
 ## Westlake University
 <figure>

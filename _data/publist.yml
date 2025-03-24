@@ -1,3 +1,12 @@
+- title: "Synonymous mutations promote tumorigenesis by disrupting m6A-dependent mRNA metabolism"
+  image: pub_Cell.jpg
+  description: Synonymous mutations, which do not alter the amino acid sequence of proteins, were once considered functionally silent. This study reveals they promote tumorigenesis by disrupting N6-methyladenosine (m6A) modifications—the most prevalent eukaryotic mRNA modification—thereby destabilizing tumor suppressor mRNAs. Key findings include enrichment of synonymous m6A-disrupting mutations in tumor suppressor genes and their role in sensitizing tumors to targeted therapies.
+  authors: Lan, Y.\*, Xia, Z.\*, Shao, Q.\*, Lin, P., Lu, J., Xiao, X., Zheng, M., Chen, D.#, Dou, Y.#, Xie, Q.#
+  link:
+  url: https://www.cell.com/cell/abstract/S0092-8674(25)00095-9
+  display: Cell 188, 1–14 (2025)
+  highlight: 1
+
 - title: "Landmarks of human embryonic development inscribed in somatic mutations"
   image: pub_Science.jpg
   description: Cell lineage information is fundamental to understanding organismal development, but very little direct information is available for humans. By using mosaic mutations as endogeneous markers, we demonstrated asymmetric contributions of early progenitors to extraembryonic tissues, distinct germ layers, and organs. Our data also suggest onset of gastrulation at an effective progenitor pool of about 170 cells and about 50 to 100 founders for the forebrain.

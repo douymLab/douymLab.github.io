@@ -43,10 +43,9 @@ Genomic mosaicism is an emerging field which has gained more and more attention,
   </a>
 </div>
 We will devote our effects to draw a comprehensive view of mosaic variants in human genomes by developing new methods identifying both rare and common mosaic variants. We will then expand our focus to decipher the mutation mechanisms, mutation consequences and elucidate the relationship between early developmental mosaic mutations and diseases developed later in life. We would also make use of neutral mosaic mutations to study embryonic developmental processes in disease individuals. In brief, our lab in Westlake University would focus on (but not restricted to) the following directions:
-1.	Develop new methods to detect common and rare mosaic variants;
-2.	Explore the mutation profiles at different stages of human development;
-3.	Pan-cancer analysis of early-embryonic mosaic mutations;
-4.	Explore the potential role of mosaic mutations in human diseases.
+1. Developing bioinformatics algorithms to detect various mosaic mutations from multi-omics sequencing data;
+2. Conducting in-vivo lineage tracing in normal and disease states in humans;
+3. Exploring the impact of mosaic mutations on aging and a series of human diseases.
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**

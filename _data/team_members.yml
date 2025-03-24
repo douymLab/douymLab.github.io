@@ -1,17 +1,18 @@
 - name: Yanmei Dou
   photo: yanmei.jpg
-  info: Assistant professor, Sept. 2021-
+  info: Principal Investigator, Sept. 2021-
   email: douyanmei@westlake.edu.cn
   number_educ: 2
   education1: Ph.D. with Prof. Liping Wei, Peking University
   education2: Postdoc with Prof. Peter J Park, Harvard Medical School
 - name: Yunchao Zheng 
   photo: yunchao.jpg
-  info: Postdoc Fellow, Oct. 2021-
+  info: Assistant Professor, Feb. 2024-
   email: zhengyunchao@westlake.edu.cn 
-  number_educ: 2
+  number_educ: 3
   education1: B.S. in Agronomy, Zhejiang University
   education2: Ph.D. in Biophysics, Zhejiang University (2014.8-2020.9); Visiting Student in Population Epigenetics and Epigenomics, Technical University of Munich (2018.3-2019.4)
+  education3: Postdoc Fellow with Prof. Yanmei Dou (Oct. 2021- Jan. 2024)
 - name: Wenlong Li
   photo: liwenlong.jpg
   info: Postdoc Fellow, Apr. 2024-
@@ -21,25 +22,25 @@
   education2: Ph.D. in Animal Genetics, Breeding and Reproduction, China Agricultural University (transition from M.S.)
 - name: Yonghe Xia
   photo: xiayonghe.jpg
-  info: Research Assistant, Apr. 2022-
+  info: Staff Scientist, Apr. 2022-
   email: xiayonghe@westlake.edu.cn
   number_educ: 1
   education1: B.S. in Bioscience, Minnan Normal University
-- name: Guoqiang Jiang
-  photo: jiangguoqiang.jpg
-  info: Lab manager, Oct. 2022-
-  email: jiangguoqiang@westlake.edu.cn
-  number_educ: 2
-  education1: B.S. in Applied Psychology, Binzhou Medical University
-  education2: M.S. in Biotechnology, Dalian Medical University
 - name: Xiaoyu Ma
   photo: xiaoyu.jpg
-  info: Research Assistant, Oct. 2022 -
+  info: Staff Scientist, Oct. 2022 -
   number_educ: 2
   education1: M.S in Biochemistry and Molecular Biology,Qiqihar University
   education2: B.S in Biology ,Qiqihar university
 - name: Luo Yan
   photo: yanluo.jpg
-  info: Research Assistant, Mar. 2023 -
-  number_educ: 1
-  education1: Botany, Kunming Institute of Botany,Chinese Academy of Science
+  info: Staff Scientist, Mar. 2023 -
+  number_educ: 2
+  education1: B.S in Applied biological sciences, JiLin Agricultural University
+  education2: M.S in Botany, University of Chinese Academy of Sciences
+- name: Huan Liu
+  photo: liuhuan.jpg
+  info: Lab manager, Aug. 2024 -
+  number_educ: 2
+  education1: B.S. in biopharmaceutical, Wenzhou Medical University
+  education2: M.S. in pharmacy, Wenzhou Medical University
