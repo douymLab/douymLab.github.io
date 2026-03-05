@@ -1,7 +1,7 @@
-- title: "Detection of Somatic Point Mutations Directly from Spatial Transcriptomics Enables in vivo Spatiotemporal Lineage Tracing"
+- title: "Detection of Somatic Point Mutations Directly from Spatial Transcriptomics Enables <em>in vivo</em> Spatiotemporal Lineage Tracing"
   image: pub_ST.png
   description: Spatial transcriptomics reveals tissue architecture but lacks lineage-tracing capability in humans. We developed SpaceTracer, a computational framework that detects somatic SNVs directly from spatial transcriptomics data and reconstructs cellular phylogenies in situ. Using this approach, we traced tumor initiation and cell migration in human cutaneous squamous cell carcinoma and uncovered lineage-associated transcriptional and spatial dynamics. SpaceTracer provides a perturbation-free strategy for high-resolution spatiotemporal lineage tracing in complex tissues.
-  authors: Yang, Z., Yao, M., Yang, Q., Du, Y., Lu, J., Wu, X., Lin, J., Qian, Z., Hu, S., Xia, Y., Liu, H., Zhou, Q., Ma, X., Luo, Y., Fan, W., Pei, W., Xia, Y., Yu, X., Luan, J., Zhang, Q., Zhang, Y., Wang, Q., Zeng, J., Zhang, Y., Wu, W., Dou, Y.
+  authors: Yang, Z. \*, Yao, M. \*, Yang, Q. \*, Du, Y. \*, Lu, J. \*, Wu, X., Lin, J., Qian, Z., Hu, S., Xia, Y., Liu, H., Zhou, Q., Ma, X., Luo, Y., Fan, W., Pei, W., Xia, Y., Yu, X., Luan, J., Zhang, Q., Zhang, Y., Wang, Q., Zeng, J., Zhang, Y., Wu, W.#, Dou, Y.#
   link:
     url: https://doi.org/10.64898/2026.02.04.703493
     display: Preprint (2026)
@@ -10,7 +10,7 @@
 - title: "PhyloSOLID: Robust phylogeny reconstruction from single-cell data despite inherent error and sparsity"
   image: pub_phylo.png
   description: Lineage reconstruction from single-cell sequencing data is often confounded by high error rates and sparse mutation signals. We developed PhyloSOLID, a phylogenetic framework that builds a high-confidence backbone tree from reliable mutations and progressively refines it using Bayesian modeling. Benchmarking on simulated and real datasets demonstrates improved accuracy for lineage reconstruction from both single-cell RNA-seq and DNA-seq data. PhyloSOLID enables more reliable decoding of cellular evolutionary histories in development and disease.
-  authors: Yang, Q., Liu, Y., Yang, J., Wu, X., Yang, Z., Xia, Y., Zheng, Y., Lu, J., Yao, M., Du, Y., Liu, H., Li, N., Dou, Y.
+  authors: Yang, Q. \*, Liu, Y. \*, Yang, J., Wu, X., Yang, Z., Xia, Y., Zheng, Y., Lu, J., Yao, M., Du, Y., Liu, H., Li, N.#, Dou, Y.#
   link:
     url: https://doi.org/10.64898/2026.02.04.703905
     display: Preprint (2026)
@@ -19,7 +19,7 @@
 - title: "Unravelling genome-wide mosaic microsatellite mutations at single-cell resolution"
   image: pub_STR.png
   description: Short tandem repeats (STRs) are highly mutable genomic elements implicated in gene regulation and disease, yet their mosaic mutations are difficult to detect at single-cell resolution. We developed BayesMonSTR, a computational method for identifying mosaic STR mutations genome-wide from single-cell sequencing data. Applying this approach revealed age-associated accumulation of STR insertions and deletions, particularly in neurons of the human prefrontal cortex. These mutations are enriched at transcription start sites and active enhancers, revealing a previously underexplored landscape of mosaic STR variation.
-  authors: Wang, C., Fan, W., Wang, W., Xia, Y., Lu, J., Ma, X., Yu, J., Zheng, Y., Luo, Y., Li, W., Yang, Q., Lin, M., Liu, H., Lan, Y., Li, C., Liu, X., He, D., Cai, S., Yu, X., Zhou, D., Kellis, M., Xiong, X., Xie, Q., Dou, Y.
+  authors: Wang, C. \*, Fan, W. \*, Wang, W. \*, Xia, Y. \*, Lu, J. \*, Ma, X. \*, Yu, J. \*, Zheng, Y., Luo, Y., Li, W., Yang, Q., Lin, M., Liu, H., Lan, Y., Li, C., Liu, X., He, D., Cai, S., Yu, X., Zhou, D., Kellis, M., Xiong, X., Xie, Q.#, Dou, Y.#
   link:
     url: https://doi.org/10.64898/2026.02.04.703915
     display: Preprint (2026)
