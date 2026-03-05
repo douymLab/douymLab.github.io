@@ -1,3 +1,30 @@
+- title: "Detection of Somatic Point Mutations Directly from Spatial Transcriptomics Enables in vivo Spatiotemporal Lineage Tracing"
+  image: pub_ST.png
+  description: Spatial transcriptomics reveals tissue organization but lacks in vivo lineage-tracing methods applicable to humans. This study introduces SpaceTracer, a computational framework that detects somatic single-nucleotide variants (SNVs) directly from spatial transcriptomics data and reconstructs cellular phylogenies within native tissue architecture. By leveraging naturally occurring somatic mutations, the framework enables mapping of lineage spread, cell migration, lineage-coupled gene expression changes, and lineage-aware local interactions. Applied to human cutaneous squamous cell carcinoma, SpaceTracer traced tumor initiation and progression, identified widespread pre-invasive migration of dedifferentiated epithelial cells, and revealed mutant B cells migrating from tertiary lymphoid structures into tumor boundaries. The method provides a perturbation-free approach for high-resolution spatiotemporal lineage tracing with potential applications in studying tumor–immune ecosystems and other complex biological systems.
+  authors: Yang, Z., Yao, M., Yang, Q., Du, Y., Lu, J., Wu, X., Lin, J., Qian, Z., Hu, S., Xia, Y., Liu, H., Zhou, Q., Ma, X., Luo, Y., Fan, W., Pei, W., Xia, Y., Yu, X., Luan, J., Zhang, Q., Zhang, Y., Wang, Q., Zeng, J., Zhang, Y., Wu, W., Dou, Y.
+  link:
+    url: https://doi.org/10.64898/2026.02.04.703493
+    display: Preprint (2026)
+  highlight: 1
+
+- title: "PhyloSOLID: Robust phylogeny reconstruction from single-cell data despite inherent error and sparsity"
+  image: pub_phylo.png
+  description: Lineage tracing using somatic mutations in single-cell sequencing data is often compromised by technical artifacts such as high sequencing error rates and severe data sparsity. This study presents PhyloSOLID, a phylogenetic reconstruction algorithm designed to be robust against these limitations. The method constructs a high-confidence backbone tree using a graph-based approach derived from reliable mutations and progressively refines the phylogeny by integrating remaining data through a Bayesian statistical framework that penalizes inconsistent evolutionary signals. Benchmarking on simulated datasets and multiple ground-truth datasets demonstrates superior accuracy compared with existing lineage reconstruction approaches for both single-cell RNA-seq and DNA-seq data. PhyloSOLID also provides a web interface for quality assessment, artifact filtering, and visualization of lineage structures.
+  authors: Yang, Q., Liu, Y., Yang, J., Wu, X., Yang, Z., Xia, Y., Zheng, Y., Lu, J., Yao, M., Du, Y., Liu, H., Li, N., Dou, Y.
+  link:
+    url: https://doi.org/10.64898/2026.02.04.703905
+    display: Preprint (2026)
+  highlight: 1
+
+- title: "Unravelling genome-wide mosaic microsatellite mutations at single-cell resolution"
+  image: pub_STR.png
+  description: Short tandem repeats (STRs), also known as microsatellites, are highly mutable genomic elements implicated in gene regulation and disease. However, detecting mosaic STR mutations at single-cell resolution remains technically challenging. This work introduces BayesMonSTR, a computational method for robust detection of mosaic STR mutations from single-cell sequencing data. Applying the approach to human tissues revealed age-associated accumulation of longer STR insertions and deletions in both mitotic and post-mitotic cells. Notably, neurons in the prefrontal cortex exhibit a higher burden of STR mutations than B cells or lung epithelial cells, with aged neurons showing pronounced enrichment of longer STR deletions. These mutations preferentially occur at transcription start sites and active enhancers of highly expressed genes, revealing a previously underexplored landscape of mosaic STR variation in development and aging.
+  authors: Wang, C., Fan, W., Wang, W., Xia, Y., Lu, J., Ma, X., Yu, J., Zheng, Y., Luo, Y., Li, W., Yang, Q., Lin, M., Liu, H., Lan, Y., Li, C., Liu, X., He, D., Cai, S., Yu, X., Zhou, D., Kellis, M., Xiong, X., Xie, Q., Dou, Y.
+  link:
+    url: https://doi.org/10.64898/2026.02.04.703915
+    display: Preprint (2026)
+  highlight: 1
+
 - title: "Synonymous mutations promote tumorigenesis by disrupting m6A-dependent mRNA metabolism"
   image: pub_Cell.jpg
   description: Synonymous mutations, which do not alter the amino acid sequence of proteins, were once considered functionally silent. This study reveals they promote tumorigenesis by disrupting N6-methyladenosine (m6A) modifications—the most prevalent eukaryotic mRNA modification—thereby destabilizing tumor suppressor mRNAs. Key findings include enrichment of synonymous m6A-disrupting mutations in tumor suppressor genes and their role in sensitizing tumors to targeted therapies.
