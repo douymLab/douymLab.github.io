@@ -1,3 +1,12 @@
+- title: "Accurate detection of mosaic mutations at short tandem repeats from bulk sequencing data"
+  image: weixiang_STR.png
+  description: Short tandem repeats (STRs) are among the most mutable regions of the human genome, yet their somatic mosaicism remains poorly characterized. We introduce BulkMonSTR, a computational framework that accurately detects mosaic STR mutations—including insertions, deletions, and SNVs—from bulk sequencing data, supporting both control-independent and case-control designs. BulkMonSTR enables robust mutation detection across STR loci with diverse allelic backgrounds, accommodating the high mutability and extensive polymorphism inherent to STRs, providing a scalable foundation for investigating somatic STR mutations in aging and disease.
+  authors: Wang, W., Li, W., Wang, C., Fan, W., Xia, Y., Yang, X., Chu, C., Dou, Y. #
+  link:
+    url: https://doi.org/10.64898/2026.03.30.715227
+    display: Preprint (2026)
+  highlight: 1
+
 - title: "Detection of Somatic Point Mutations Directly from Spatial Transcriptomics Enables <em>in vivo</em> Spatiotemporal Lineage Tracing"
   image: pub_ST.png
   description: Spatial transcriptomics reveals tissue architecture but lacks lineage-tracing capability in humans. We developed SpaceTracer, a computational framework that detects somatic SNVs directly from spatial transcriptomics data and reconstructs cellular phylogenies in situ. Using this approach, we traced tumor initiation and cell migration in human cutaneous squamous cell carcinoma and uncovered lineage-associated transcriptional and spatial dynamics. SpaceTracer provides a perturbation-free strategy for high-resolution spatiotemporal lineage tracing in complex tissues.
