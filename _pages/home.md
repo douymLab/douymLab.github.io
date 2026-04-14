@@ -11,8 +11,12 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/lab_logo_v2.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
-We are a [research group](https://sls.westlake.edu.cn/Our_Faculty/202104/t20210407_9156.shtml) in the [School of Life Sciences at Westlake University](https://www.westlake.edu.cn/academics/School_of_Life_Science/About/Overview/). Our lab is primarily a computational biology/bioinformatic group that develops and uses a wide range of genomic, bioinformatic, and statistical methods to do data-mining and explore biological questions. Our aim is to explore and understand mosaic mutations in human genomes. Mosaicism happens because a mutation arises at some point after the zygote is created. Mosaic mutations arising early during development generally are present in relatively high proportion of cells, affecting high proportion of tissues and are likely to be transmitted to the next generation. Mosaic mutations are common in normal human genomes and have been reported to be implicated in a variety of disorders. <br /> 
-　Genomic mosaicism is an emerging field which has gained more and more attention, mainly due to the high mosaic mutation occurrence rate and the impacts of mosaic mutations in varied cancer and non-cancer diseases. There remain a lot of unresolved scientific questions. For example, every human is born with numerous mosaic mutations accumulated from the very first postzygotic cell division, is it possible to use these early mutations to predict the incidence of late-onset diseases? The onset of cancer usually happens after aging, but could some early-embryonic mosaic mutations contribute to the origin of cancers? In addition, bioinformatics methods to detect varied kinds of mosaic mutations are far from mature.
+
+
+We are a [research group](https://www.westlake.edu.cn/faculty/yanmei-dou.html) in the [School of Life Sciences at Westlake University](https://sls.westlake.edu.cn/en/About/Overview/). Our lab focuses on developing bioinformatics methods to detect repeat and non-repeat region genomic mosaic mutations from multi-omics sequencing data, tracing lineages under both normal and disease states in humans and investigating the role of mosaic mutations in aging and related human diseases.
+
+Genomic mosaicism is an emerging field that has gained increasing attention, primarily due to the high occurrence rate of mosaic mutations and their impacts on various cancers and non-cancer diseases. Despite growing interest, many fundamental scientific questions remain unresolved. For example, are mosaic mutations a cause or a consequence of aging? Every human is born with numerous mosaic mutations accumulated from the very first postzygotic cell division—could these early mutations be used to predict the incidence of late-onset diseases? Are repeat-region variants important for disease onset? Why do somatic and germline tissues exhibit different mutation rates? Moreover, bioinformatics methods for detecting diverse types of mosaic mutations are still far from mature.
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -42,13 +46,15 @@ We are a [research group](https://sls.westlake.edu.cn/Our_Faculty/202104/t202104
     <span class="sr-only">Next</span>
   </a>
 </div>
-　We will devote our effects to draw a comprehensive view of mosaic variants in human genomes by developing new methods identifying different kinds of mosaic variants. We will then expand our focus to decipher the mutation mechanisms, mutation consequences and elucidate the relationship between early developmental mosaic mutations and diseases developed later in life. We would also make use of neutral mosaic mutations to study embryonic developmental processes in disease individuals. In brief, our lab in Westlake University would focus on (but not restricted to) the following directions:
 
-1. Developing bioinformatics algorithms to detect various mosaic mutations from multi-omics sequencing data;
+We will devote our effects to draw a comprehensive view of mosaic variants in human genomes by developing new methods identifying different kinds of mosaic variants. We will then expand our focus to decipher the mutation mechanisms, mutation consequences and elucidate the relationship between mosaic mutations and diseases developed later in life. We would also make use of neutral mosaic mutations to study developmental processes in healthy/disease individuals. In brief, our lab in Westlake University would focus on (but not restricted to) the following directions:
 
-2. Conducting in-vivo lineage tracing in normal and disease states in humans;
+1.	Developing bioinformatics algorithms to detect both repeat-region and non repeat-retion mosaic mutations from multi-omics sequencing data;
 
-3. Exploring the impact of mosaic mutations on aging and a series of human diseases.
+2.	Conducting in-vivo lineage tracing in normal and disease states in humans;
+
+3.	Exploring the impact of mosaic mutations on aging and a series of human diseases.
+
 
  **We are  looking for passionate new PhD students, Postdocs, and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/positions) **!**
 
