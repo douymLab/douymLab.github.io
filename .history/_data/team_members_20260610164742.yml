@@ -5,15 +5,14 @@
   number_educ: 2
   education1: Ph.D. with Prof. Liping Wei, Peking University
   education2: Postdoc with Prof. Peter J Park, Harvard Medical School
-- name: Shuai Wang
-  photo: wangshuai.jpg
-  info: Research Assistant, May. 2026-
-  email: wangshuai@westlake.edu.cn
-  number_educ: 4
-  education1: B.E. in Software Engineering, Shandong University (Jul. 2005-Jul. 2009)
-  education2: M.S. in CAD & CG, State Key Laboratory of CAD&CG, Zhejiang University (Sep. 2009-Mar. 2012)
-  education3: Engineer at MicroStrategy, Hangzhou (Apr. 2012-Oct. 2014)
-  education4: Engineer at Manycore Tech, Hangzhou (Nov. 2014-Jan. 2026)
+- name: Yunchao Zheng 
+  photo: yunchao.jpg
+  info: Assistant Professor, Feb. 2024-
+  email: zhengyunchao@westlake.edu.cn 
+  number_educ: 3
+  education1: B.S. in Agronomy, Zhejiang University
+  education2: Ph.D. in Biophysics, Zhejiang University (2014.8-2020.9); Visiting Student in Population Epigenetics and Epigenomics, Technical University of Munich (2018.3-2019.4)
+  education3: Postdoc Fellow with Prof. Yanmei Dou (Oct. 2021- Jan. 2024)
 - name: Wenlong Li
   photo: liwenlong.jpg
   info: Postdoc Fellow, Apr. 2024-
