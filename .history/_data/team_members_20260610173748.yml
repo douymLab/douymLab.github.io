@@ -9,9 +9,11 @@
   photo: wangshuai.jpg
   info: Staff Scientist, May. 2026-
   email: wangshuai@westlake.edu.cn
-  number_educ: 2
+  number_educ: 4
   education1: B.E. in Software Engineering, Shandong University (Jul. 2005-Jul. 2009)
   education2: M.S. in CAD & CG, State Key Laboratory of CAD&CG, Zhejiang University (Sep. 2009-Mar. 2012)
+  education3: Engineer at MicroStrategy, Hangzhou (Apr. 2012-Oct. 2014)
+  education4: Engineer at Manycore Tech, Hangzhou (Nov. 2014-Jan. 2026)
 - name: Wenlong Li
   photo: liwenlong.jpg
   info: Postdoc Fellow, Apr. 2024-
