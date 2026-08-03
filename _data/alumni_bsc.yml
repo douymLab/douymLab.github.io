@@ -2,6 +2,17 @@
 #- name: Yuanshi Wang
 #  photo: wangyuanshi.jpg
 #  info: Undergraduate Student, Sept. 2022- 
+- name: Jiaqi Zhou
+  photo: zhoujiaqi.jpg
+  info: Visiting Student, Jul. 2026- 
+  number_educ: 1
+  education1: B.S. in Agriculture, Northwest A&F University
+- name: Yiwen Yu
+  photo: yuyiwen.jpg
+  info: Visiting Student, Jul. 2026- 
+  number_educ: 1
+  education1: B.S. in Bioinformatics, Soochow University
 - name: Baozheng Xu
   photo: xubaozheng.jpg
   info: Undergraduate Student, Sept. 2023- 
+
