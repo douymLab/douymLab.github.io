@@ -188,8 +188,8 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
   </ul>
-</div>
 {% endfor %}
+</div>
 
 </div>
 
