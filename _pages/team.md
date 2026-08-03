@@ -136,8 +136,6 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 
 ## Lab visitors, BSc students
 
-<div class="row">
-
 <!-- <div class="col-sm-6 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
@@ -180,18 +178,36 @@ Jump to [staff](#staff), [PhD students](#phd-students), [administrative support]
 </div>
 {% endfor %} -->
 
-<div class="col-sm-6 clearfix">
-<h4>Bachelor Students</h4>
+{% assign number_printed = 0 %}
 {% for member in site.data.alumni_bsc %}
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-<h4>{{ member.name }}</h4>
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
+
   </ul>
-{% endfor %}
 </div>
 
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
 ## Administrative Support
