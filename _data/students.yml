@@ -53,3 +53,21 @@
   number_educ: 2
   education1: B.Ec. in Statistics, Jiangxi University of Finance and Economics
   education2: M.S. in Statistics, Central South University
+- name: Yijie Li
+  photo: liyijie.jpg
+  info: PhD student, Nov. 2026 -
+  email: liyijie@westlake.edu.cn
+  number_educ: 1
+  education1: B.S. in Biology, University of Chinese Academy of Sciences
+  - name: Jiaqi Zhou
+  photo: zhoujiaqi.jpg
+  info: PhD student, Nov. 2026 -
+  email: zhoujiaqi@westlake.edu.cn
+  number_educ: 1
+  education1: B.S. in Facility Agriculture Science and Engineering,Northwest A&F University
+  - name: Wen Chen
+  photo: chenwen.jpg
+  info: PhD student, Nov. 2026 -
+  email: chenwen@westlake.edu.cn
+  number_educ: 1
+  education1: B.S. in Biostatistics, Xi’an Jiaotong-Liverpool University 
